@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yabbondanza
-- 👀 I’m a student of computer science.
-- 🌱 I’m currently learning c++.
+- 👋 Hi, I’m Yasmim Abbondanza.
+- 👀 I’m a student of Computer Science.
+- 🌱 I’m currently learning C++.
 
 <!---
 yabbondanza/yabbondanza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
