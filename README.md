@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Yasmim Abbondanza.
-- 👀 I’m a student of Computer Science.
-- 🌱 I’m currently learning C++.
+## Hello, devs!
+#### I'm Yasmim, a 21 year old developer girl from Brazil.
 
-<!---
-yabbondanza/yabbondanza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>📝 Currently learning: front-end development (HTML/CSS/JavaScript).<br>
+⭐ Fun fact: developer who doesn't like coffee.</p>
+
+<div align="center">
+  <a href="https://github.com/yabbondanza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yabbondanza&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabbondanza&layout=compact&langs_count=7&theme=aura_dark"/>
+</div>
+  
+<div align="center">
+  <a href="mailto:yasmimabbondanza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/yabbondanza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
