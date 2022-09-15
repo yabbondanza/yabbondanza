@@ -1,7 +1,7 @@
 ## Hello, devs!
 
 <p>📝 Currently learning: Java.<br>
-💻 Upcoming studies: Springboot.
+💻 Upcoming studies: Springboot.<br>
 ⭐ Fun fact: developer who doesn't like coffee.</p>
 
 <div align="center">
