@@ -1,7 +1,7 @@
 ## Hello, devs!
-#### I'm Yasmim, a 21 year old developer girl from Brazil.
 
-<p>📝 Currently learning: front-end development (HTML/CSS/JavaScript).<br>
+<p>📝 Currently learning: Java.<br>
+💻 Upcoming studies: Springboot.
 ⭐ Fun fact: developer who doesn't like coffee.</p>
 
 <div align="center">
