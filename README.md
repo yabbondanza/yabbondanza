@@ -1,14 +1,16 @@
 ## Hello, devs!
 
-<p>📝 Currently learning: Java.<br>
-💻 Upcoming studies: Spring Boot.<br>
-⭐ Fun fact: developer who doesn't like coffee.</p>
+```javascript
+const abbondanza = {
+    pronouns: "She" | "Her",
+    code: ["Java", "C++"],
+    askMeAbout: ["woman in stem", "design", "web dev"],
+    currentlyLearning: "Java",
+    upcoming studies: "Spring Boot",
+    funFact: "Developer who doesn't like coffee"
 
-<div align="center">
-  <a href="https://github.com/yabbondanza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yabbondanza&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabbondanza&layout=compact&langs_count=7&theme=aura_dark"/>
-</div>
+};
+```
   
 ##
   
