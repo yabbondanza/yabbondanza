@@ -6,7 +6,7 @@ const abbondanza = {
     code: ["Java", "C++"],
     askMeAbout: ["woman in stem", "design", "web dev"],
     currentlyLearning: "Java",
-    upcoming studies: "Spring Boot",
+    upcomingStudies: "Spring Boot",
     funFact: "Developer who doesn't like coffee"
 };
 ```
