@@ -8,7 +8,6 @@ const abbondanza = {
     currentlyLearning: "Java",
     upcoming studies: "Spring Boot",
     funFact: "Developer who doesn't like coffee"
-
 };
 ```
   
