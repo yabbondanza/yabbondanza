@@ -1,15 +1,4 @@
 ## Hello, devs!
-
-```javascript
-const abbondanza = {
-    pronouns: "She" | "Her",
-    code: ["Java", "C++"],
-    askMeAbout: ["woman in stem", "design", "web dev"],
-    currentlyLearning: "Java",
-    upcomingStudies: "Spring Boot",
-    funFact: "Developer who doesn't like coffee"
-};
-```
   
 ##
   
