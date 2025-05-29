@@ -12,7 +12,7 @@ yabbondanza@github:~$ ./welcome.sh
                 ||----w |
                 ||     ||
 ```
-<img align="left" src="https://media1.tenor.com/m/4uF7pGIvFu4AAAAC/wei-wuxian-tongue-out.gif" width="300" />
+<img align="left" src="https://media1.tenor.com/m/4uF7pGIvFu4AAAAC/wei-wuxian-tongue-out.gif" width="280" />
 
 ```
 yabbondanza@github
